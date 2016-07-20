@@ -1,0 +1,5 @@
+d:\demo\MyConsoleApplications\VariablesDemo\bin\Debug\VariablesDemo.exe
+d:\demo\MyConsoleApplications\VariablesDemo\bin\Debug\VariablesDemo.pdb
+d:\demo\MyConsoleApplications\VariablesDemo\obj\Debug\VariablesDemo.csprojResolveAssemblyReference.cache
+d:\demo\MyConsoleApplications\VariablesDemo\obj\Debug\VariablesDemo.exe
+d:\demo\MyConsoleApplications\VariablesDemo\obj\Debug\VariablesDemo.pdb
